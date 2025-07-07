@@ -1,0 +1,6 @@
+ccxt
+pandas
+requests
+Flask
+apscheduler
+python-dotenv
